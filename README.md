@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rasamanjari Nandan
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Engineering and Robotics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Statistics, Deep Learning and doing projects on ML, NLP and Computer Vision
+- 💞️ I’m looking to collaborate on ML, DL End to End Projects
 - 📫 How to reach me ...
 
 <!---
